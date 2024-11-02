@@ -6,5 +6,4 @@ excerpt:
 date: 2023-11-01
 venue: Socially Responsible Language Modelling Research (SoLaR) at Neurips 2023
 paperurl: https://arxiv.org/pdf/2311.00306
-citation: 'Xiangjue Dong*, Yibo Wang*, Philip S. Yu, James Caverlee. "Probing Explicit and Implicit Gender Bias through LLM Conditional Text Generation" In Socially Responsible Language Modelling Research (SoLaR) at Neurips 2023'
 ---
