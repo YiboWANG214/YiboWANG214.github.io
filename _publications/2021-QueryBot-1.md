@@ -5,5 +5,4 @@ excerpt:
 date: 2021-10-01
 venue: 'Journal of biomedical informatics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1532046421002471'
-citation: 'Yibo Wang, Amara Tariq, Fiza Khan, Judy Wawira Gichoya, Hari Trivedi, and Imon Banerjee.'
 ---
