@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student supervised by [Dr. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) at [University of Illinois Chicago](https://www.uic.edu). I received my Master's degree in Computer Science at [Emory University](https://www.emory.edu/home/index.html) supervised by [Dr. Arnold Dorian](https://scholar.google.com/citations?user=2jEFz5EAAAAJ&hl=en) and [Dr. Imon Banerjee](https://scholar.google.com/citations?user=hagJ_W8AAAAJ&hl=en)  in 2021, and my Bachelor's degree in Mathematics at [Shandong University](https://en.sdu.edu.cn) in 2019. 
+I am a fourth-year PhD student supervised by [Dr. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) at [University of Illinois Chicago](https://www.uic.edu). I received my Master's degree in Computer Science at [Emory University](https://www.emory.edu/home/index.html) supervised by [Dr. Arnold Dorian](https://scholar.google.com/citations?user=2jEFz5EAAAAJ&hl=en) and [Dr. Imon Banerjee](https://scholar.google.com/citations?user=hagJ_W8AAAAJ&hl=en)  in 2021, and my Bachelor's degree in Mathematics at [Shandong University](https://en.sdu.edu.cn) in 2019. 
 
-My research interests are broadly in Natural Language Processing and Data Mining. My current research focus is out-of-distribution detection and evaluation in NLP.
+My research interests are broadly in Natural Language Processing and Data Mining, especially Large Language Models. My current research focus is Trustworthy LLMs and unit test generation by LLMs.
 
 Latest News
 ======
