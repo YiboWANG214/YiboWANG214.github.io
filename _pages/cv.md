@@ -23,10 +23,3 @@ Work experience
   * Manager: [Musen Wen](https://www.linkedin.com/in/musen/)
 
 
-
-Publications
-======
-
-<ul>{% for post in site.publications %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
