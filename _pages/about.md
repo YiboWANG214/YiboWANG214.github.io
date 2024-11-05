@@ -20,7 +20,7 @@ Latest News
 
 [Nov 2023] One paper is accepted at SoLar@Neurips'23.
 
-[Sep 2023] Two papers are accepted at AACL.
+[Sep 2023] Two papers are accepted at AACL'23.
 
 [May 2023] My personal website is launched!
 
