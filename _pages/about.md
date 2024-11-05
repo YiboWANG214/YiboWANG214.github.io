@@ -14,6 +14,8 @@ My research interests are broadly in Natural Language Processing and Data Mining
 
 Latest News
 ======
+[Nov 2024] I'm invited to give a talk at [MedAI Group](https://stanford-medai.github.io).
+
 [Sep 2024] Two papers are accepted at EMNLP'24 main conference.
 
 [Nov 2023] One paper is accepted at SoLar@Neurips'23.
